@@ -1,12 +1,13 @@
 <h1 align="center">Hello there, I'm Aryaman 👋</h1>
 
 <p align="center">
-<b>Hard work beats raw talent!”</b>
+<b>"Hard work beats raw talent!”</b>
 </p>
 
 ---
 
-### About Me <iframe src="https://giphy.com/embed/UoLt6Tm8wlSnWGfSFs" width="50px" height="50px" frameBorder="0" class="giphy-embed"></iframe>
+<!-- ### About Me <iframe src="https://giphy.com/embed/UoLt6Tm8wlSnWGfSFs" width="50px" height="50px" frameBorder="0" class="giphy-embed"></iframe> -->
+### About Me
 
 - I'm a **Computer Science Undergrad** at [Shiv Nadar University](https://snu.edu.in/).
 - I'm into Long Distance Running and Football.
