@@ -1,5 +1,7 @@
 
-<h1 align="center">Hello there, I'm Aryaman <iframe src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="30px" height="30px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></h1>
+<h1 align="center">Hello there, I'm Aryaman
+ <iframe src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="30px" height="30px" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</h1>
 
 <p align="center">
 <b>"Hard work beats raw talent!”</b>
