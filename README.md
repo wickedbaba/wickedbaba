@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello there, I'm Aryaman
+<h1 align="center">Hello there, I'm Aryaman <img src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=790b76110fb7f75423aa74eab5129ab4b942847290db57e4&rid=giphy.gif&ct=s" width="30px" height="30px" >
 </h1>
 
 <p align="center">
@@ -8,8 +8,7 @@
 
 ---
 
-<!-- ### About Me <iframe src="https://giphy.com/embed/UoLt6Tm8wlSnWGfSFs" width="50px" height="50px" frameBorder="0" class="giphy-embed"></iframe> -->
-### About Me
+### About Me ### About Me <img src="https://media0.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611fc928ea7f4e0e5a81c9d08f659840fa1221dc58e&rid=giphy.gif&ct=s" width="50px" height="50px">
 
 - I'm a **Computer Science Undergrad** at [Shiv Nadar University](https://snu.edu.in/).
 - I'm into Long Distance Running and Football.
