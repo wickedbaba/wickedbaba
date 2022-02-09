@@ -24,8 +24,8 @@
 ### Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> 
 
 <p align="left">
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluency/48/000000/email-sign.png"/></a>
+<a href = "https://www.linkedin.com/in/aryaman-singh-rana/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "aryamansinghranaasr@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-sign.png"/></a>
 </p>
 
 ---
