@@ -6,7 +6,7 @@
 <b>.... .- .-. -..    .-- --- .-. -.-    -... . .- - ...    .-. .- .--    - .- .-.. . -. - </b>
 </p>
 
-### About Me <img src="https://giphy.com/stickers/cat-vibing-BXjqytvu9bKzCUHdzz width="50px" height="50px">
+### About Me <img src="https://giphy.com/stickers/cat-vibing-BXjqytvu9bKzCUHdzz" width="50px" height="50px">
 
 - I'm a **Computer Science Undergrad** at [Shiv Nadar University](https://snu.edu.in/).
 - I'm into Long Distance Running and Football.
