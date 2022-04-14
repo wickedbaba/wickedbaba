@@ -17,7 +17,6 @@
 
 #### Currently reading -
 
-- Can't Hurt Me by David Goggins
 - Eat & Run by Scott Jurek
 ---
 
