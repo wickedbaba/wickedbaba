@@ -9,15 +9,17 @@
 ### About Me <img src="https://media0.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611fc928ea7f4e0e5a81c9d08f659840fa1221dc58e&rid=giphy.gif&ct=s" width="50px" height="50px">
 
 - I'm a **Computer Science Undergrad** at [Shiv Nadar University](https://snu.edu.in/).
+- Currently learning about Web Development.
 - I'm into Long Distance Running and Football.
-- Learning about Web Development and DSA.
-- I'm interested in blockchain technology, smart contracts and NFT's.
+
+<!-- - - Learning about Web Development and DSA. -->
+<!-- - I'm interested in blockchain technology, smart contracts and NFT's. -->
 
 <!-- #### Currently Working on -  -->
 
 #### Currently reading -
 
-- Eat & Run by Scott Jurek
+- Do Epic Shit by Ankur Warikoo
 ---
 
 ### Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> 
