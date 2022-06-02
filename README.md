@@ -6,7 +6,8 @@
 <b>.... .- .-. -..    .-- --- .-. -.-    -... . .- - ...    .-. .- .--    - .- .-.. . -. - </b>
 </p>
 
-### About Me <img src="https://media0.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611fc928ea7f4e0e5a81c9d08f659840fa1221dc58e&rid=giphy.gif&ct=s" width="50px" height="50px">
+### About Me
+<!-- <img src="https://media0.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611fc928ea7f4e0e5a81c9d08f659840fa1221dc58e&rid=giphy.gif&ct=s" width="50px" height="50px"> -->
 
 - I'm a **Computer Science Undergrad** at [Shiv Nadar University](https://snu.edu.in/).
 - Currently learning about Web Development.
@@ -32,7 +33,8 @@
 
 ---
 
-### My Github Stats <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
+### My Github Stats
+<!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> -->
 
 
 <p align="center"> 
