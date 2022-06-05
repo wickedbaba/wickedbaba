@@ -11,7 +11,7 @@
 
 - I'm a **Computer Science Undergrad** at [Shiv Nadar University](https://snu.edu.in/).
 - Currently learning about Web Development.
-- I'm into Long Distance Running and Football.
+- I'm into Long Distance Running and Skateboarding.
 
 <!-- - - Learning about Web Development and DSA. -->
 <!-- - I'm interested in blockchain technology, smart contracts and NFT's. -->
