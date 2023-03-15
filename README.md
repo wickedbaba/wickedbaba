@@ -14,7 +14,7 @@
 **Computer Science Undergrad** at [Shiv Nadar University](https://snu.edu.in/).
 - I'm learning the following - 
   - Golang
-  - Pyspark
+  - Chalice
   - DynamoDB
   - MongoDB
   - Elastic Search
