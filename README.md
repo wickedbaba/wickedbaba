@@ -4,7 +4,7 @@
 
 <p align="center">
 <!-- <b>.... .- .-. -..    .-- --- .-. -.-    -... . .- - ...    .-. .- .--    - .- .-.. . -. - </b> -->
-**A problem solver with a passion for development and machine learning.**
+<b>A problem solver with a passion for development and machine learning.</b>
   
 </p>
 
